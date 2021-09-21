@@ -2,6 +2,7 @@
 * {
   -webkit-box-sizing: 100%;
           box-sizing: 100%;
+  margin: 0;
 }
 
 body {
